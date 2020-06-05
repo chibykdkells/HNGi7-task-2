@@ -1,10 +1,10 @@
-let name = "Kelvin O Chibuikem";
-let email = "chigbatachibuike@gmail.com";
-let id = "HNG-02959";
-let language = "JavaScript";
+let myName = "Kelvin O Chibuikem";
+let myEmail = "chigbatachibuike@gmail.com";
+let myId = "HNG-02959";
+let myLang = "JavaScript";
 
-function intern() {
-    console.log(`Hello world, this is ${name} with HNGi7 ID ${id} and email ${email} using ${language} for stage 2 task`)
+function myInternDetails() {
+    console.log(`Hello world, this is ${myName} with HNGi7 ID ${myId} and email ${myEmail} using ${myLang} for stage 2 task`)
 };
 
-intern();
+myInternDetails(); 
